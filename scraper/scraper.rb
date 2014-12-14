@@ -5,6 +5,8 @@ class Scraper
 
   attr_accessor :browser
 
+  FAKE_SPACE = " " # not actually a space
+
   def initialize
     @browser = Browser.new
   end
@@ -57,7 +59,6 @@ class Scraper
   end
 
 
-
   def scrape_seasons
     index_page = browser.get "http://www.j-archive.com/listseasons.php"
 
@@ -72,7 +73,7 @@ class Scraper
         game_id = episode.params["game_id"]
         next unless game_id
 
-        # json_filename = "json/#{game_id}.json"
+        title = title.gsub(FAKE_SPACE, " ") # remove fake spaces
         json_filename = "json/#{title}.json"
 
         puts "-"*50

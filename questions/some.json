@@ -1,0 +1,2402 @@
+[
+  {
+    "category": "SOUTH AMERICA",
+    "question": "Shortly before this country gained independence in 1975, many citizens moved to Holland",
+    "answer": "Suriname",
+    "money": "$600",
+    "date": "1990-11-12",
+    "episode": 1426
+  },
+  {
+    "category": "FROM THE PORTUGUESE",
+    "question": "In 1763 Portugal's South American colonies were unified with the capital set in this city",
+    "answer": "Rio de Janeiro",
+    "money": "$800",
+    "date": "2005-09-19",
+    "episode": 4831
+  },
+  {
+    "category": "HAPPY BIRTHDAY!",
+    "question": "You're 16 & thrilled with your new Accent, from this car company that uses the voice of Jeff Bridges",
+    "answer": "Hyundai",
+    "money": "$1000",
+    "date": "2013-07-04",
+    "episode": 6644
+  },
+  {
+    "category": "RIDING ON THE METRO",
+    "question": "Duke Ellington knew this NYC metro line that runs from Manhattan to Far Rockaway",
+    "answer": "the \"A\" train",
+    "money": "DD: $2,000",
+    "date": "2013-10-29",
+    "episode": 6697
+  },
+  {
+    "category": "HUMBLE & NOT-HUMBLE ABODES",
+    "question": "The Navajo usually built this one-room earth-covered dwelling with the entrance facing east",
+    "answer": "a hogan",
+    "money": "$1000",
+    "date": "2011-02-02",
+    "episode": 6078
+  },
+  {
+    "category": "IT'S GETTING HOT IN HERE",
+    "question": "Hot place in an Italian Dante title",
+    "answer": "the inferno",
+    "money": "$200",
+    "date": "2013-06-04",
+    "episode": 6622
+  },
+  {
+    "category": "A LITTLE LIT",
+    "question": "In this Cervantes novel, Alonso's plans never work out as he tries to be chivalrous",
+    "answer": "Don Quixote",
+    "money": "$200",
+    "date": "2007-02-15",
+    "episode": 5169
+  },
+  {
+    "category": "WILLIAM PENNED",
+    "question": "In the late 1920s he penned what many consider his greatest novel, \"The Sound and the Fury\"",
+    "answer": "William Faulkner",
+    "money": "$400",
+    "date": "2001-05-09",
+    "episode": 3853
+  },
+  {
+    "category": "WHEEL OF JEOPARDY!",
+    "question": "Birthday good wishes----------------------------------M--- --PP- R-T-R-S",
+    "answer": "many happy returns",
+    "money": "$600",
+    "date": "2004-01-09",
+    "episode": 4455
+  },
+  {
+    "category": "\"B\" KEEPING",
+    "question": "Fee fi fo fum, Jack ascends one in a fairy tale",
+    "answer": "a beanstalk",
+    "money": "$200",
+    "date": "2010-12-21",
+    "episode": 6047
+  },
+  {
+    "category": "CLASS FIELD TRIP",
+    "question": "A class field trip to an aviary means you're going to an enclosure where these are kept",
+    "answer": "birds",
+    "money": "$1200",
+    "date": "2006-10-04",
+    "episode": 5073
+  },
+  {
+    "category": "& SPAN \"D_X\"",
+    "question": "This 2-word term for a spiral shape dates to 1954",
+    "answer": "double helix",
+    "money": "DD: $5,600",
+    "date": "2014-06-19",
+    "episode": 6864
+  },
+  {
+    "category": "FILING CHAPTER 11",
+    "question": "\"Charles had more respect for Adam after he knew about the prison\", begins this Steinbeck work's Chapter 11",
+    "answer": "East of Eden",
+    "money": "$2000",
+    "date": "2004-04-21",
+    "episode": 4528
+  },
+  {
+    "category": "THE GRATEFUL DEAD",
+    "question": "In 1991 The Dead played a memorial concert in Golden Gate Park for this promoter before an estimated 300,000 people",
+    "answer": "Bill Graham",
+    "money": "$1000",
+    "date": "2006-06-07",
+    "episode": 5018
+  },
+  {
+    "category": "U.S. STATES",
+    "question": "The only state in which caucasians are a minority",
+    "answer": "Hawaii",
+    "money": "$1000",
+    "date": "1986-12-08",
+    "episode": 521
+  },
+  {
+    "category": "THE U.S. SENATE GLOSSARY",
+    "question": "Term for the Senate's official adviser on rules & procedures for conducting Senate business",
+    "answer": "the parliamentarian",
+    "money": "DD: $1,800",
+    "date": "2008-03-04",
+    "episode": 5412
+  },
+  {
+    "category": "NO, IT'S IOWA",
+    "question": "Named for a Native American tribe, this city of 85,000 lies near where Iowa, Nebraska & South Dakota meet",
+    "answer": "Sioux City",
+    "money": "$1000",
+    "date": "2007-12-18",
+    "episode": 5357
+  },
+  {
+    "category": "HOW AM \"I\" DOING?",
+    "question": "In 1981 this company introduced its first home computer, the PC",
+    "answer": "IBM",
+    "money": "$400",
+    "date": "2002-11-28",
+    "episode": 4199
+  },
+  {
+    "category": "THE BULL",
+    "question": "It set a trading volume record on December 17, 1999 at 1,349,711,000 shares",
+    "answer": "New York Stock Exchange",
+    "money": "$600",
+    "date": "2000-04-20",
+    "episode": 3609
+  },
+  {
+    "category": "SCI. ABBREV.",
+    "question": "As opposed to an M.D., a D.O. is a doctor of this holistic practice",
+    "answer": "osteopathy",
+    "money": "$1200",
+    "date": "2007-12-03",
+    "episode": 5346
+  },
+  {
+    "category": "A NOVEL CATEGORY",
+    "question": "This \"Don Quixote\" author wrote his first novel, \"La Galatea\", in 1585",
+    "answer": "Cervantes",
+    "money": "$200",
+    "date": "2001-05-25",
+    "episode": 3865
+  },
+  {
+    "category": "TV SHOWS BY CHARACTERS",
+    "question": "NYPD detectives Olivia Benson & John Munch",
+    "answer": "Law & Order: SVU",
+    "money": "$2000",
+    "date": "2013-05-09",
+    "episode": 6604
+  },
+  {
+    "category": "NOTABLE NAMES",
+    "question": "In 1958 his castle & San Simeon estate became California State Historic Landmark No. 640",
+    "answer": "William Randolph Hearst",
+    "money": "$800",
+    "date": "2006-11-13",
+    "episode": 5101
+  },
+  {
+    "category": "\"OVER\" & \"OUT\"",
+    "question": "It's the problem with the photo seen here",
+    "answer": "overexposure",
+    "money": "$600",
+    "date": "2007-02-23",
+    "episode": 5175
+  },
+  {
+    "category": "BEDTIME STORIES",
+    "question": "A boy in bed enters a fantastic dream world in this author-illustrator's \"In the Night Kitchen\"",
+    "answer": "Maurice Sendak",
+    "money": "$1600",
+    "date": "2008-12-23",
+    "episode": 5592
+  },
+  {
+    "category": "IT'S ALL GOOD",
+    "question": "As an adjective it means \"very impressive\"; as a noun, it's a lavish production\"",
+    "answer": "spectacular",
+    "money": "$2000",
+    "date": "2007-09-25",
+    "episode": 5297
+  },
+  {
+    "category": "SPORTS",
+    "question": "\"Angel From The Outfield\" seen here: (a.k.a. \"Mr. October\")",
+    "answer": "Reggie Jackson",
+    "money": "$300",
+    "date": "1998-05-21",
+    "episode": 3174
+  },
+  {
+    "category": "THIRD PARTY CANDIDATES",
+    "question": "1948:States' Rights Party",
+    "answer": "Strom Thurmond",
+    "money": "DD: $800",
+    "date": "2000-11-22",
+    "episode": 3733
+  },
+  {
+    "category": "NBA LOGOS",
+    "question": "A flaming red basketball going through a white hoop",
+    "answer": "the (Miami) Heat",
+    "money": "$800",
+    "date": "2010-11-24",
+    "episode": 6028
+  },
+  {
+    "category": "ABBR.",
+    "question": "The abbreviation for pound, lb., stands for this Latin word that means pound",
+    "answer": "libra",
+    "money": "$1000",
+    "date": "2003-11-10",
+    "episode": 4411
+  },
+  {
+    "category": "TRAVEL & TOURISM",
+    "question": "\"The Rock\" has been called the grande dame of local hotels on this small peninsula",
+    "answer": "Gibraltar",
+    "money": "$200",
+    "date": "1989-11-17",
+    "episode": 1200
+  },
+  {
+    "category": "LATIN AUTHORS",
+    "question": "Prudentius wrote European poetry's first complete one of these works in which characters stand for abstract concepts",
+    "answer": "an allegory",
+    "money": "$400",
+    "date": "2010-06-21",
+    "episode": 5946
+  },
+  {
+    "category": "THE SCHOOL PLAY: ROMEO AND JULIET",
+    "question": "The kid playing the old head of this family of Juliet's couldn't get his beard to stay on",
+    "answer": "the Capulets",
+    "money": "$2000",
+    "date": "2006-02-08",
+    "episode": 4933
+  },
+  {
+    "category": "COMPOSERS",
+    "question": "In 1897 this country granted its great composer Jean Sibelius a yearly pension",
+    "answer": "Finland",
+    "money": "$400",
+    "date": "1992-05-28",
+    "episode": 1799
+  },
+  {
+    "category": "ANTARCTIC EXPLORATION",
+    "question": "This British explorer for whom an ice shelf & sea are named also discovered Mount Erebus",
+    "answer": "(James Clarke) Ross",
+    "money": "$800",
+    "date": "2005-01-07",
+    "episode": 4685
+  },
+  {
+    "category": "THEY COME IN SEVENS",
+    "question": "Tolkien should have consulted with the Brothers Grimm before having 13 of these accompany Bilbo in \"The Hobbit\"",
+    "answer": "dwarves",
+    "money": "$800",
+    "date": "2005-02-22",
+    "episode": 4717
+  },
+  {
+    "category": "BRAND NAMES",
+    "question": "Its Big Bertha Clubs have helped drive up sales for this golf equipment maker",
+    "answer": "Callaway",
+    "money": "$1000",
+    "date": "2005-07-13",
+    "episode": 4818
+  },
+  {
+    "category": "\"P\" IS FOR PHYSICS",
+    "question": "A cube is an example of a rectangular one of these; A Pink Floyd cover displays a triangular one",
+    "answer": "prism",
+    "money": "$1200",
+    "date": "2007-10-18",
+    "episode": 5314
+  },
+  {
+    "category": "OPRAH'S BOOK CLUB",
+    "question": "This coming-of-age story by Jane Hamilton about a small-town Illinois girl sounds like an Old Testament book",
+    "answer": "The Book of Ruth",
+    "money": "$1600",
+    "date": "2004-11-06",
+    "episode": 4640
+  },
+  {
+    "category": "GETTING CONFRONTATIONAL",
+    "question": "Arlen Specter can attest some of these friendly meetings with voters about health care reform turned unfriendly",
+    "answer": "town halls",
+    "money": "$1600",
+    "date": "2009-10-16",
+    "episode": 5770
+  },
+  {
+    "category": "2001: A CATEGORY ODYSSEY",
+    "question": "Exactly 3 months before 9/11, this Oklahoma City bomber was executed",
+    "answer": "(Timothy) McVeigh",
+    "money": "$600",
+    "date": "2013-06-18",
+    "episode": 6632
+  },
+  {
+    "category": "NATURE",
+    "question": "The Organ Pipe species of this desert plant is named for the long stems which resemble the pipes of an organ",
+    "answer": "cactus",
+    "money": "DD: $500",
+    "date": "2002-09-17",
+    "episode": 4147
+  },
+  {
+    "category": "THE AUTO INDUSTRY",
+    "question": "GM plans to build Saturn cars in Spring Hill while Nissan has a plant at nearby Smyrna in this state",
+    "answer": "Tennessee",
+    "money": "$600",
+    "date": "1987-11-09",
+    "episode": 731
+  },
+  {
+    "category": "THE OLD TESTAMENT",
+    "question": "The governor of Judea under the reign of Persian king Artaxerxes I, Nehemiah rebuilt this city's walls",
+    "answer": "Jerusalem",
+    "money": "$600",
+    "date": "2008-03-06",
+    "episode": 5414
+  },
+  {
+    "category": "\"LOOSE\" ENDS",
+    "question": "This phrase describes athletes with flexible appendages",
+    "answer": "Loose-limbed",
+    "money": "$400",
+    "date": "1997-06-13",
+    "episode": 2960
+  },
+  {
+    "category": "FRENCH COMPOSERS",
+    "question": "Many of Francois Couperin's works were written for this old keyboard instrument, including 27 suites",
+    "answer": "a harpsichord",
+    "money": "$400",
+    "date": "2011-07-18",
+    "episode": 6196
+  },
+  {
+    "category": "WORLD OF COLOR",
+    "question": "It's the vivid color named for the showy flowers seen here",
+    "answer": "fuschia",
+    "money": "$1000",
+    "date": "2004-12-22",
+    "episode": 4673
+  },
+  {
+    "category": "AWARDS",
+    "question": "The Federation of Fly Fishers, Harvard's Hasty Pudding Club & Time Magazine all name one of these",
+    "answer": "Man of the Year",
+    "money": "$100",
+    "date": "1997-07-08",
+    "episode": 2977
+  },
+  {
+    "category": "LISTEN TO THE FLOWER PEOPLE",
+    "question": "A Dutch flower seller once told me that daffodils & tulips are most often grown from these, not seeds",
+    "answer": "bulbs",
+    "money": "$400",
+    "date": "2009-10-15",
+    "episode": 5769
+  },
+  {
+    "category": "OOO, SORRY",
+    "question": "I'm afraid the Canary Islands weren't named for birds but for these",
+    "answer": "dogs",
+    "money": "$1600",
+    "date": "2011-11-08",
+    "episode": 6242
+  },
+  {
+    "category": "NEW YORKERS",
+    "question": "The NYC-born son of Jamaican immigrants, he took over the Army's largest command in 1989",
+    "answer": "Colin Powell",
+    "money": "$800",
+    "date": "2013-12-25",
+    "episode": 6738
+  },
+  {
+    "category": "PEOPLE IN HISTORY",
+    "question": "This Dutch queen, born in 1880, was the daughter of King Willem III & his second wife, Queen Emma",
+    "answer": "Wilhelmina",
+    "money": "$400",
+    "date": "2000-04-11",
+    "episode": 3602
+  },
+  {
+    "category": "THEY ALSO RAN",
+    "question": "This industrialist from Michigan ran for the Senate in 1918, & lost",
+    "answer": "Henry Ford",
+    "money": "$100",
+    "date": "1999-02-16",
+    "episode": 3332
+  },
+  {
+    "category": "COUNTRY RHYME TIME",
+    "question": "A cooling device from Sapporo",
+    "answer": "a Japan fan",
+    "money": "$400",
+    "date": "2008-07-03",
+    "episode": 5499
+  },
+  {
+    "category": "NATURE",
+    "question": "Fruit types of these insects may be named for the fruit they infest, such as olives or cherries",
+    "answer": "Flies",
+    "money": "$300",
+    "date": "1998-03-03",
+    "episode": 3117
+  },
+  {
+    "category": "INDUSTRY",
+    "question": "After the 1930s this replaced coal tar as the major source for aromatic compounds",
+    "answer": "Petroleum",
+    "money": "$800",
+    "date": "2000-04-07",
+    "episode": 3600
+  },
+  {
+    "category": "WHAT A DISH!",
+    "question": "Gravlax is this red-fleshed fish with mustard sauce",
+    "answer": "salmon",
+    "money": "$200",
+    "date": "1996-11-22",
+    "episode": 2815
+  },
+  {
+    "category": "\"N\"VELOPED",
+    "question": "A webcam on this university's School of Communications is pointed at Lake Michigan",
+    "answer": "Northwestern",
+    "money": "DD: $3,200",
+    "date": "2005-05-02",
+    "episode": 4766
+  },
+  {
+    "category": "OPRAH'S FAVORITE BOOKS",
+    "question": "(Oprah gives the clue from a chair) When I got up to 800 pages in this author's 'The Pillars of the Earth', I had to slow myself down because I didn't want it to end",
+    "answer": "Ken Follett",
+    "money": "$1200",
+    "date": "2010-12-09",
+    "episode": 6039
+  },
+  {
+    "category": "THE YOGI BEARS",
+    "question": "Your yogi may bear a tilak, a mark usually made on this body part",
+    "answer": "the forehead",
+    "money": "$600",
+    "date": "2013-05-14",
+    "episode": 6607
+  },
+  {
+    "category": "JINGLES ALL THE WAY",
+    "question": "They're \"The dogs kids love to bite\"",
+    "answer": "Armour hot dogs",
+    "money": "$400",
+    "date": "1998-12-29",
+    "episode": 3297
+  },
+  {
+    "category": "IN OTHER WORLDS",
+    "question": "Pluto's version of this Earth sitcom would be \"9th (sometimes 8th) Stone if you Start Counting at our System's Star\"",
+    "answer": "3rd Rock from the Sun",
+    "money": "$200",
+    "date": "1999-04-14",
+    "episode": 3373
+  },
+  {
+    "category": "SOUTH AMERICA",
+    "question": "Named for its discoverer, an American pilot, it's the world's highest waterfall",
+    "answer": "Angel Falls",
+    "money": "$100",
+    "date": "1986-11-17",
+    "episode": 506
+  },
+  {
+    "category": "NAME THE TV ROLE",
+    "question": "\"Seinfeld\":Julia Louis-Dreyfus",
+    "answer": "(Elaine) Benes",
+    "money": "$800",
+    "date": "2013-10-01",
+    "episode": 6677
+  },
+  {
+    "category": "PRISON SENTENCES",
+    "question": "Alger Hiss got 5 years after his 1950 perjury trial, thanks to this CA. Congressman who had his own legal issues in '74",
+    "answer": "Richard Nixon",
+    "money": "$100",
+    "date": "2001-04-23",
+    "episode": 3841
+  },
+  {
+    "category": "BOWL GAME NAMES",
+    "question": "LSU clung on in 1968 to win this Atlanta bowl's first championship",
+    "answer": "Peach Bowl",
+    "money": "$500",
+    "date": "1997-12-31",
+    "episode": 3073
+  },
+  {
+    "category": "HAIL TO THE CHEF",
+    "question": "In 2012 this Brit who brought his \"food revolution\" to America won the Harvard School of Public Health's Healthy Cup Award",
+    "answer": "Jamie Oliver",
+    "money": "$600",
+    "date": "2014-03-07",
+    "episode": 6790
+  },
+  {
+    "category": "CHILDREN'S BOOK NAMES",
+    "question": "Margaret & H.A. Rey:\"The Complete Adventures of Curious ____\"",
+    "answer": "George",
+    "money": "$200",
+    "date": "2011-06-23",
+    "episode": 6179
+  },
+  {
+    "category": "SHORT STORIES",
+    "question": "His classic short stories include \"The Undefeated\" & \"The Killers\"",
+    "answer": "Ernest Hemingway",
+    "money": "$800",
+    "date": "2002-12-17",
+    "episode": 4212
+  },
+  {
+    "category": "NATIONAL HISTORIC SITES",
+    "question": "A portion of this avenue between the Capitol & the White House was designated a National Historic Site in 1965",
+    "answer": "Pennsylvania Avenue",
+    "money": "$400",
+    "date": "2005-03-21",
+    "episode": 4736
+  },
+  {
+    "category": "THE YEAR IN SPORTS",
+    "question": "Bruce Jenner & Ray Leonard were American Olympic champs in this red, white & blue year",
+    "answer": "1976",
+    "money": "$400",
+    "date": "2004-03-22",
+    "episode": 4506
+  },
+  {
+    "category": "THE HILLS ARE ALIVE",
+    "question": "This range covers 6,000 square miles in southwestern South Dakota & eastern Wyoming",
+    "answer": "the Black Hills",
+    "money": "$600",
+    "date": "2011-11-09",
+    "episode": 6243
+  },
+  {
+    "category": "SPORTS",
+    "question": "Game where \"dribbling\" is \"offensive\"",
+    "answer": "basketball",
+    "money": "$100",
+    "date": "1984-09-27",
+    "episode": 14
+  },
+  {
+    "category": "BELOVED BOLIVIA",
+    "question": "You'll find this Bolivian body of water 12,507 feet above sea level",
+    "answer": "Lake Titicaca",
+    "money": "$1200",
+    "date": "2001-12-07",
+    "episode": 3975
+  },
+  {
+    "category": "FABLES & TALES",
+    "question": "Story from which come the replies: \"Not I,\" said the duck; \"Not I,\" said the cat; \"Not I,\" said the dog",
+    "answer": "The Little Red Hen",
+    "money": "DD: $1,400",
+    "date": "1986-11-10",
+    "episode": 501
+  },
+  {
+    "category": "MIDDLE NAME, PLEASE",
+    "question": "Of British PM Arthur Chamberlain",
+    "answer": "Neville Chamberlain",
+    "money": "$1000",
+    "date": "2010-05-05",
+    "episode": 5913
+  },
+  {
+    "category": "LABOR",
+    "question": "This founder of the Socialist Party of America was imprisoned for organizing an 1894 strike against the Pullman Company",
+    "answer": "Eugene V. Debs",
+    "money": "$800",
+    "date": "2003-05-06",
+    "episode": 4312
+  },
+  {
+    "category": "SAY IT \"AINT\" SO",
+    "question": "To contaminate or morally corrupt is to do this",
+    "answer": "Taint",
+    "money": "$400",
+    "date": "2000-01-04",
+    "episode": 3532
+  },
+  {
+    "category": "SHAKESPEARE THE MAN",
+    "question": "Scholars have long sought the identity of the \"Dark Lady\" who tortures Shakespeare in these poems",
+    "answer": "Sonnets",
+    "money": "$200",
+    "date": "1997-06-30",
+    "episode": 2971
+  },
+  {
+    "category": "THE CIA",
+    "question": "The atrium at CIA headquarters has a model of the plane in which this man was shot down by the Soviets in 1960",
+    "answer": "Francis Gary Powers",
+    "money": "$2000",
+    "date": "2004-10-29",
+    "episode": 4635
+  },
+  {
+    "category": "FOOTBALL",
+    "question": "(Jimmy of the Clue Crew holds up a white board.)  The two basic types of pass coverage are man-to-man & this, in which defensive players are assigned an area to cover",
+    "answer": "zone",
+    "money": "$400",
+    "date": "2007-01-25",
+    "episode": 5154
+  },
+  {
+    "category": "HOOK, LINE & SINKER",
+    "question": "In 1973 Dr. Hook and the Medicine Show expressed a desire to be on \"the cover of\" this magazine",
+    "answer": "Rolling Stone",
+    "money": "$200",
+    "date": "2008-12-09",
+    "episode": 5582
+  },
+  {
+    "category": "OPERA CHARACTERS",
+    "question": "In a rock opera this deaf, dumb & blind kid becomes a pinball wizard",
+    "answer": "Tommy",
+    "money": "$400",
+    "date": "2012-05-24",
+    "episode": 6384
+  },
+  {
+    "category": "BIG WORDS",
+    "question": "In book titles it precedes e.e. cummings' \"Room\" & Grace Paley's \"Changes at the Last Minute\"",
+    "answer": "Enormous",
+    "money": "$800",
+    "date": "2000-01-12",
+    "episode": 3538
+  },
+  {
+    "category": "BABY, YOU CAN DRIVE MY CAR",
+    "question": "Consider going green, baby, by driving this hybrid model seen here",
+    "answer": "a Prius",
+    "money": "$800",
+    "date": "2010-02-25",
+    "episode": 5864
+  },
+  {
+    "category": "AFRICAN-AMERICAN HISTORY",
+    "question": "Migrate north to this city to visit the largest museum of African-American history; it's named for Charles H. Wright",
+    "answer": "Detroit",
+    "money": "$400",
+    "date": "2014-05-16",
+    "episode": 6840
+  },
+  {
+    "category": "BLACK IS BACK",
+    "question": "Seen here, it's considered one of the world's deadliest creatures",
+    "answer": "the black mamba",
+    "money": "$1200",
+    "date": "2007-10-05",
+    "episode": 5305
+  },
+  {
+    "category": "WOW!  THE MIDWEST",
+    "question": "This St. Paul-born author is credited with coining the term \"Jazz Age\"",
+    "answer": "F. Scott Fitzgerald",
+    "money": "$300",
+    "date": "2000-12-06",
+    "episode": 3743
+  },
+  {
+    "category": "WORDS ABOUT WORDS",
+    "question": "Also called bubbly, it's an example of a toponym, a word derived from a place name",
+    "answer": "champagne",
+    "money": "$800",
+    "date": "2003-01-17",
+    "episode": 4235
+  },
+  {
+    "category": "THE QUOTABLE MARK TWAIN",
+    "question": "\"It has noble poetry in it; and some clever fables...and some good morals... and upward of a thousand lies\"",
+    "answer": "the Bible",
+    "money": "$1000",
+    "date": "2013-03-12",
+    "episode": 6562
+  },
+  {
+    "category": "RADCLIFFE GRADS",
+    "question": "Before moving to Paris & meeting Alice, she studied psychology at Radcliffe under William James",
+    "answer": "Gertrude Stein",
+    "money": "$600",
+    "date": "2007-06-11",
+    "episode": 5251
+  },
+  {
+    "category": "TWAIN TRACTS",
+    "question": "The Sacramento Union published Twain's running account of his visit to these islands",
+    "answer": "Hawaiian Islands",
+    "money": "$400",
+    "date": "2000-09-25",
+    "episode": 3691
+  },
+  {
+    "category": "THE LARGEST U.S. STATE",
+    "question": "Florida,Idaho,Montana",
+    "answer": "Montana",
+    "money": "$400",
+    "date": "2006-02-16",
+    "episode": 4939
+  },
+  {
+    "category": "WORLD GEOGRAPHY",
+    "question": "Construction of Islamabad, this country's capital, was started in 1961",
+    "answer": "Pakistan",
+    "money": "$1000",
+    "date": "1992-09-14",
+    "episode": 1841
+  },
+  {
+    "category": "ITALIAN ART",
+    "question": "One of the greatest painters of the Venetian school, this 16th century artist was born Tiziano Vecellio",
+    "answer": "Titian",
+    "money": "$300",
+    "date": "1999-01-22",
+    "episode": 3315
+  },
+  {
+    "category": "WHO'S THE \"MAN\"?",
+    "question": "In 1884 he patented the first practical fountain pen",
+    "answer": "Lewis Waterman",
+    "money": "$2000",
+    "date": "2012-07-23",
+    "episode": 6426
+  },
+  {
+    "category": "'70S THEATER",
+    "question": "Peter Gennaro won Tony for choreographing Andrea McArdle in this 1977 hit",
+    "answer": "Annie",
+    "money": "$200",
+    "date": "1986-02-07",
+    "episode": 370
+  },
+  {
+    "category": "PROBLEMS, PROBLEMS",
+    "question": "(Cheryl of the Clue Crew peruses a model train hobbyist's fantasy setup.)  If train \"A\" leaves at 6:00 at 60 mph, & train \"B\" leaves at 5:00 at 90 mph, this equation, d=rt, tells you when B passes A",
+    "answer": "distance equals rate times time",
+    "money": "$1200",
+    "date": "2002-05-10",
+    "episode": 4085
+  },
+  {
+    "category": "MONOPOLY",
+    "question": "Each time a player passes go, he collects this salary",
+    "answer": "$200",
+    "money": "$200",
+    "date": "2007-12-14",
+    "episode": 5355
+  },
+  {
+    "category": "THE UNIVERSITY OF...",
+    "question": "Library holdings at this university include the Constitution of the C.S.A. & the Margaret Mitchell Papers",
+    "answer": "the University of Georgia",
+    "money": "DD: $1,000",
+    "date": "2005-12-06",
+    "episode": 4887
+  },
+  {
+    "category": "COMMON BONDS",
+    "question": "A prisoner,a trap,a leak",
+    "answer": "Things that are sprung",
+    "money": "$300",
+    "date": "1998-09-07",
+    "episode": 3216
+  },
+  {
+    "category": "WORLD WAR II",
+    "question": "The fastest U.S. prop fighter ever built, its name is now on a sporty Ford",
+    "answer": "Mustang",
+    "money": "$200",
+    "date": "1987-03-12",
+    "episode": 589
+  },
+  {
+    "category": "GENERAL SCIENCE",
+    "question": "This propulsion proposed for interstellar trips uses a flow of electrons & has been tested in Earth orbit",
+    "answer": "an ion drive",
+    "money": "$1000",
+    "date": "1990-11-16",
+    "episode": 1430
+  },
+  {
+    "category": "LITERATURE QUOTES:  ONE WORD OFF",
+    "question": "\"The deep and dank tarn at my feet closed sullenly and silently over the fragments of the 'House of Pancakes'\"",
+    "answer": "\"Usher\"",
+    "money": "$800",
+    "date": "2012-10-05",
+    "episode": 6450
+  },
+  {
+    "category": "INCREDIBLE EDIBLES",
+    "question": "The meat of this ruminant is called chevon; Jamaicans like to eat it curried",
+    "answer": "Goat",
+    "money": "$500",
+    "date": "1998-11-05",
+    "episode": 3259
+  },
+  {
+    "category": "ANAGRAMMED STATE CAPITALS",
+    "question": "SCARY TONIC",
+    "answer": "Carson City",
+    "money": "$2000",
+    "date": "2013-09-19",
+    "episode": 6669
+  },
+  {
+    "category": "THEATRE",
+    "question": "This comic's wife Camille co-produced the Tony-nominated play about the Delany Sisters, \"Having Our Say\"",
+    "answer": "Bill Cosby",
+    "money": "$600",
+    "date": "1996-01-25",
+    "episode": 2629
+  },
+  {
+    "category": "I GOT A 4-LETTER WORD FOR YA, PAL!",
+    "question": "An immoral or evil habit, especially in \"Miami\"",
+    "answer": "vice",
+    "money": "$800",
+    "date": "2009-10-16",
+    "episode": 5770
+  },
+  {
+    "category": "LEFT, RIGHT OR CENTER",
+    "question": "Don't keep it under your hat, it anagrams to a material used in hats",
+    "answer": "left",
+    "money": "$800",
+    "date": "2004-05-24",
+    "episode": 4551
+  },
+  {
+    "category": "HOTELS",
+    "question": "We'll tell you \"diplomatically\" that this L.A. hotel was the home of the Coconut Grove nightclub",
+    "answer": "The Ambassador Hotel",
+    "money": "DD: $600",
+    "date": "2000-01-25",
+    "episode": 3547
+  },
+  {
+    "category": "THE PLAY'S THE THING",
+    "question": "In a Christopher Marlowe play, Barabas is \"The Jew Of\" this island",
+    "answer": "Malta",
+    "money": "$600",
+    "date": "1997-01-29",
+    "episode": 2863
+  },
+  {
+    "category": "WOMEN & CHILDREN",
+    "question": "After hearing a fantastic story on a boat in 1862, young Alice Liddell asked this author to put it on paper for her",
+    "answer": "Lewis Carroll",
+    "money": "$400",
+    "date": "2014-07-21",
+    "episode": 6886
+  },
+  {
+    "category": "DR. MASSEUSE RHYMES",
+    "question": "A knot I've found, oh, heck! / in this muscle of the upper part of my neck / but not in my ol' a-sneezius! / no! 'tis in my...",
+    "answer": "trapezius",
+    "money": "$200",
+    "date": "2012-01-16",
+    "episode": 6291
+  },
+  {
+    "category": "OF WING",
+    "question": "With a wingspan of up to 12 feet, this critter can wander quite a distance without landing",
+    "answer": "an albatross",
+    "money": "$800",
+    "date": "2007-06-04",
+    "episode": 5246
+  },
+  {
+    "category": "ALL WE NEED IS A TITLE",
+    "question": "Jane Austen's \"P and P\"",
+    "answer": "Pride and Prejudice",
+    "money": "$400",
+    "date": "2012-05-04",
+    "episode": 6370
+  },
+  {
+    "category": "JASON MILLER",
+    "question": "Jason Miller earned an Oscar nomination for his electrifying film debut as Father Karras in this 1973 classic",
+    "answer": "The Exorcist",
+    "money": "$200",
+    "date": "2001-10-22",
+    "episode": 3941
+  },
+  {
+    "category": "OTHER PLANETS IN MOVIES",
+    "question": "\"Superman: The Movie\":It goes boom early",
+    "answer": "Krypton",
+    "money": "$400",
+    "date": "2009-10-22",
+    "episode": 5774
+  },
+  {
+    "category": "NEWSPAPERS",
+    "question": "New England's largest paper is this Boston daily",
+    "answer": "The Boston Globe",
+    "money": "$1000",
+    "date": "1991-05-15",
+    "episode": 1558
+  },
+  {
+    "category": "GOING INTO O____T",
+    "question": "2-word French term for a small item of aesthetic interest",
+    "answer": "objet d'art",
+    "money": "$1000",
+    "date": "2009-03-16",
+    "episode": 5651
+  },
+  {
+    "category": "CRIME TIME",
+    "question": "He got his \"Scarface\" after being knifed by a drunk at Frankie Yale's Harvard Inn in Brooklyn in 1917",
+    "answer": "Al Capone",
+    "money": "$400",
+    "date": "2004-07-21",
+    "episode": 4593
+  },
+  {
+    "category": "AROUND THE FARM",
+    "question": "This farm machine that travels along cutting standing grain shares a name with a grim angel of death",
+    "answer": "a reaper",
+    "money": "$600",
+    "date": "2011-12-28",
+    "episode": 6278
+  },
+  {
+    "category": "CHRISTMAS POP SONGS",
+    "question": "Darlene Love sang \"Christmas (Baby Please\" do this) & if I were her baby, I would",
+    "answer": "\"Come Home\"",
+    "money": "$1600",
+    "date": "2012-12-19",
+    "episode": 6503
+  },
+  {
+    "category": "MOVIE TRAILERS",
+    "question": "Portrayed by Mel Gibson, he's Murtaugh's trailer-dwelling partner in \"Lethal Weapon\"",
+    "answer": "Martin Riggs",
+    "money": "$1200",
+    "date": "2001-12-05",
+    "episode": 3973
+  },
+  {
+    "category": "GUINNESS WORLD RECORDS",
+    "question": "From top to bottom, Ed Shelton ripped 55 of these, each with 1,044 pages, in 3 minutes",
+    "answer": "phonebooks",
+    "money": "$1000",
+    "date": "2006-11-27",
+    "episode": 5111
+  },
+  {
+    "category": "ARMY, NAVY, AIR FORCE OR MARINES",
+    "question": "\"The Right Stuff\" guy Chuck Yeager after 1947",
+    "answer": "Air Force",
+    "money": "$600",
+    "date": "2003-02-04",
+    "episode": 4247
+  },
+  {
+    "category": "WET & WILD",
+    "question": "Of a bird, a fish or an insect, what a water boatman is",
+    "answer": "Insect",
+    "money": "$100",
+    "date": "1998-01-07",
+    "episode": 3078
+  },
+  {
+    "category": "ANCIENT EGYPT",
+    "question": "This famous queen was replaced by her daughter as Akhenaten's principal wife",
+    "answer": "Nefertiti",
+    "money": "$300",
+    "date": "1996-03-28",
+    "episode": 2674
+  },
+  {
+    "category": "4-LETTER RIVERS",
+    "question": "Its source is in southern Burundi; from there it flows a long, long way north",
+    "answer": "the Nile",
+    "money": "$400",
+    "date": "2004-03-31",
+    "episode": 4513
+  },
+  {
+    "category": "DYNASTY",
+    "question": "1st,15th,Ptolemaic",
+    "answer": "Egypt",
+    "money": "$400",
+    "date": "1998-11-03",
+    "episode": 3257
+  },
+  {
+    "category": "WEATHER",
+    "question": "The thermometer was invented by Galileo, but this instrument was invented by his associate, Torricelli",
+    "answer": "barometer",
+    "money": "$400",
+    "date": "1988-10-13",
+    "episode": 944
+  },
+  {
+    "category": "FILMS OF THE '90S",
+    "question": "(Hi, I'm Vivica Fox)I played one of the sisters in this 1997 film about family, relationships & Sunday night dinner",
+    "answer": "Soul Food",
+    "money": "$2000",
+    "date": "2003-10-01",
+    "episode": 4383
+  },
+  {
+    "category": "SO NICE THEY NICKNAMED ME TWICE",
+    "question": "\"The Father of the H-Bomb\", \"Dr. Strangelove\"",
+    "answer": "Edward Teller",
+    "money": "$800",
+    "date": "2005-01-10",
+    "episode": 4686
+  },
+  {
+    "category": "ACTRESS/SINGER",
+    "question": "This singer is also a south-of-the-border soap star",
+    "answer": "Paulina Rubio",
+    "money": "$800",
+    "date": "2003-02-06",
+    "episode": 4249
+  },
+  {
+    "category": "BEFORE & AFTER",
+    "question": "Grim Charles Dickens novel about Winnie, Piglet & Christopher Robin waiting in vain for an inheritance",
+    "answer": "Bleak House at Pooh Corner",
+    "money": "$1000",
+    "date": "2000-01-31",
+    "episode": 3551
+  },
+  {
+    "category": "U.S. CITIES",
+    "question": "\"The Quaker City\"",
+    "answer": "Philadelphia",
+    "money": "$300",
+    "date": "1990-10-30",
+    "episode": 1417
+  },
+  {
+    "category": "FOOD",
+    "question": "President Bush likes to eat these pigskin treats with Tabasco sauce",
+    "answer": "Pork Rinds",
+    "money": "$200",
+    "date": "1990-01-19",
+    "episode": 1245
+  },
+  {
+    "category": "THIS OLD HOUSE",
+    "question": "This section of sheet metal guides water away so it won't get back under the roof shingles",
+    "answer": "the metal flashing",
+    "money": "$800",
+    "date": "2005-02-21",
+    "episode": 4716
+  },
+  {
+    "category": "ADVICE COLUMNISTS",
+    "question": "She & husband Tom bought 5 Iowa papers & locals can write to her new advice column",
+    "answer": "Roseanne Arnold",
+    "money": "$600",
+    "date": "1993-11-22",
+    "episode": 2121
+  },
+  {
+    "category": "A HISTORY OF VIOLINS",
+    "question": "A master violinist, this \"Four Seasons\" man was among the first to compose major works for the instrument",
+    "answer": "(Antonio) Vivaldi",
+    "money": "$1000",
+    "date": "2009-10-16",
+    "episode": 5770
+  },
+  {
+    "category": "GAY '90S",
+    "question": "It sank in Havana Harbor & set off a war",
+    "answer": "the Maine",
+    "money": "$200",
+    "date": "1984-09-24",
+    "episode": 11
+  },
+  {
+    "category": "SCIENCE FICTION",
+    "question": "The sci-fi thriller, \"Altered States\" was this \"Network\" screenwriter's first novel",
+    "answer": "Paddy Chayefsky",
+    "money": "DD: $1,000",
+    "date": "1991-11-08",
+    "episode": 1655
+  },
+  {
+    "category": "FEMALE ATHLETES",
+    "question": "In 1998 this Korean golfer became the youngest winner of the LPGA's U.S. Women's Open",
+    "answer": "Se Ri Pak",
+    "money": "$2000",
+    "date": "2003-11-18",
+    "episode": 4417
+  },
+  {
+    "category": "ACTUAL ITEMS",
+    "question": "These \"tools\" strike piano strings",
+    "answer": "hammers",
+    "money": "$1200",
+    "date": "2009-06-02",
+    "episode": 5707
+  },
+  {
+    "category": "SPACE SHUTTLE ENDEAVOUR",
+    "question": "(Kelly of the Clue Crew reports from the California Science Center in Los Angeles.)  On Endeavour's first mission, three crew members stood atop the shuttle to capture and repair an out-of-control satellite; the hazardous 8½-hour procedure set a record for the longest \"EVA\"--this type of activity",
+    "answer": "extravehicular",
+    "money": "$600",
+    "date": "2014-01-06",
+    "episode": 6746
+  },
+  {
+    "category": "FACE BOOK",
+    "question": "In 1910 this man published his story collection \"Lost Face\", which includes \"To Build a Fire\"",
+    "answer": "Jack London",
+    "money": "$1000",
+    "date": "2011-04-04",
+    "episode": 6121
+  },
+  {
+    "category": "ANCIENT TIMES",
+    "question": "Myron's Discobolus statue shows a man doing this, not dancing",
+    "answer": "throwing a discus",
+    "money": "$400",
+    "date": "2006-06-20",
+    "episode": 5027
+  },
+  {
+    "category": "CAT ANATOMY",
+    "question": "The eccrine type of these glands are down on the paw pads, because they're not that vital in keeping kitty cool",
+    "answer": "sweat glands",
+    "money": "$400",
+    "date": "2004-07-14",
+    "episode": 4588
+  },
+  {
+    "category": "WESTERN SONGS",
+    "question": "Roy Rogers sang, \"Hoppy, Gene & me; we taught you how to\" do this \"straight\"",
+    "answer": "Shoot",
+    "money": "$200",
+    "date": "1990-01-19",
+    "episode": 1245
+  },
+  {
+    "category": "PLACES IN LITERATURE",
+    "question": "This saucy Defoe title character was born in Newgate Prison",
+    "answer": "Moll Flanders",
+    "money": "DD: $1,200",
+    "date": "2010-03-23",
+    "episode": 5882
+  },
+  {
+    "category": "BUSINESS & INDUSTRY",
+    "question": "Coors beer is brewed in this Colorado city",
+    "answer": "Golden",
+    "money": "$800",
+    "date": "1990-02-02",
+    "episode": 1255
+  },
+  {
+    "category": "ALL ABOUT AFRICA",
+    "question": "The name of Egypt's rulers the Mamelukes. once slaves, comes from a word for \"slave\" in this language",
+    "answer": "Arabic",
+    "money": "$1200",
+    "date": "2002-02-26",
+    "episode": 4032
+  },
+  {
+    "category": "FOOD & DRINK",
+    "question": "There's a museum in Corbin, Kentucky dedicated to this man famous for his 11 herbs & spices",
+    "answer": "Colonel Sanders",
+    "money": "$200",
+    "date": "2007-11-21",
+    "episode": 5338
+  },
+  {
+    "category": "MONEY TALKS",
+    "question": "In a sentence like \"I'm getting 8% return on munis\", the word \"munis\" is short for these",
+    "answer": "municipal bonds",
+    "money": "$800",
+    "date": "2012-07-19",
+    "episode": 6424
+  },
+  {
+    "category": "DESIRE",
+    "question": "Winning $276 million in this 29-state lottery like 8 West Virginians did in 2008 wouldn't be so bad",
+    "answer": "Powerball",
+    "money": "$400",
+    "date": "2008-12-04",
+    "episode": 5579
+  },
+  {
+    "category": "INVENTORS & INVENTIONS",
+    "question": "His mechanical reaper had 7 basic mechanisms that are basically the same as those in the modern equivalent",
+    "answer": "Cyrus McCormick",
+    "money": "$1000",
+    "date": "2014-04-01",
+    "episode": 6807
+  },
+  {
+    "category": "STORY PROBLEMS",
+    "question": "If Abby jogs 2 miles a day around a 1/4-mile track, she does this many laps in a week",
+    "answer": "56",
+    "money": "DD: $500",
+    "date": "1999-11-12",
+    "episode": 3495
+  },
+  {
+    "category": "DESTINATION: PLUTO",
+    "question": "In 1905 this man for whom an Arizona observatory is named started a search for Pluto",
+    "answer": "Percival Lowell",
+    "money": "DD: $1,000",
+    "date": "2006-07-05",
+    "episode": 5038
+  },
+  {
+    "category": "\"RH\" FACTOR",
+    "question": "It can be a serious quarrel or a red-stalked vegetable used in cooking",
+    "answer": "Rhubarb",
+    "money": "$300",
+    "date": "2000-03-22",
+    "episode": 3588
+  },
+  {
+    "category": "METAPHORS",
+    "question": "This 3-word phrase meaning \"crazy\" or \"way out there\" could also describe Humpty Dumpty",
+    "answer": "off the wall",
+    "money": "$400",
+    "date": "2003-06-13",
+    "episode": 4340
+  },
+  {
+    "category": "WORLD GEOGRAPHY",
+    "question": "Pest is this European country's most popular county",
+    "answer": "Hungary",
+    "money": "$600",
+    "date": "1997-07-15",
+    "episode": 2982
+  },
+  {
+    "category": "BRAND NAMES",
+    "question": "This brand of cleaning product is represented by the cute little guy seen here",
+    "answer": "Scrubbing Bubbles",
+    "money": "$600",
+    "date": "2014-09-16",
+    "episode": 6897
+  },
+  {
+    "category": "COOL IDEA",
+    "question": "Like Venkman & Egon, Edison shared an interest in these & tried to build something to talk to them",
+    "answer": "ghosts",
+    "money": "$1000",
+    "date": "2014-07-04",
+    "episode": 6875
+  },
+  {
+    "category": "EUROPEAN HISTORY",
+    "question": "These medieval peasants were bound to the land, so they didn't get to catch many waves",
+    "answer": "Serfs",
+    "money": "$600",
+    "date": "1997-11-25",
+    "episode": 3047
+  },
+  {
+    "category": "THE '30S",
+    "question": "On Nov. 15, 1533 this conquistador entered the Incan capital of Cuzco, seizing all of its gold",
+    "answer": "Pizarro",
+    "money": "$600",
+    "date": "2014-11-12",
+    "episode": 6938
+  },
+  {
+    "category": "QUASI-RELATED PAIRS",
+    "question": "A playing card knave & Ms. St. John",
+    "answer": "Jack & Jill",
+    "money": "$600",
+    "date": "1999-12-06",
+    "episode": 3511
+  },
+  {
+    "category": "THE DAKOTAS",
+    "question": "It took treaties with these 2 countries for the U.S. to get all the area that's now North Dakota",
+    "answer": "England & France",
+    "money": "DD: $3,000",
+    "date": "1990-05-03",
+    "episode": 1319
+  },
+  {
+    "category": "WORDS WITHIN WORDS",
+    "question": "One of these raised at Sonoma in 1846 was lost in a conflagration in 1906",
+    "answer": "a flag",
+    "money": "$800",
+    "date": "2012-12-21",
+    "episode": 6505
+  },
+  {
+    "category": "2 ZS, PLEASE",
+    "question": "An open square in Italy, or ex-baseball catcher Mike",
+    "answer": "a piazza",
+    "money": "$800",
+    "date": "2012-04-16",
+    "episode": 6356
+  },
+  {
+    "category": "DYLAN THOMAS",
+    "question": "Dylan riffed on one of this author's titles in the book \"Portrait of the Artist as a Young Dog\"",
+    "answer": "James Joyce",
+    "money": "$1000",
+    "date": "2000-11-17",
+    "episode": 3730
+  },
+  {
+    "category": "AMERICAN LITERATURE",
+    "question": "In a James Fenimore Cooper novel, Uncas, a young chieftain, is identified as this title character",
+    "answer": "\"The Last of the Mohicans\"",
+    "money": "$400",
+    "date": "1996-01-16",
+    "episode": 2622
+  },
+  {
+    "category": "MAJOR LEAGUE BASEBALL",
+    "question": "In 1987 this A's first baseman was named the AL's Rookie of the Year; since then he's hit over 500 home runs",
+    "answer": "Mark McGwire",
+    "money": "$100",
+    "date": "2001-05-17",
+    "episode": 3859
+  },
+  {
+    "category": "PEN NAMES",
+    "question": "He was \"Poor\" Richard Saunders",
+    "answer": "Ben Franklin",
+    "money": "$400",
+    "date": "2003-07-15",
+    "episode": 4362
+  },
+  {
+    "category": "THE OLD TESTAMENT",
+    "question": "Martini, anyone? Zechariah says this mount is \"before Jerusalem on the east\"",
+    "answer": "the Mount of Olives",
+    "money": "$1000",
+    "date": "2012-12-24",
+    "episode": 6506
+  },
+  {
+    "category": "EXPLORERS",
+    "question": "A year after his death, one of his ships completed the first around-the-world voyage",
+    "answer": "Ferdinand Magellan",
+    "money": "$400",
+    "date": "1992-11-19",
+    "episode": 1889
+  },
+  {
+    "category": "AMERICAN HISTORY",
+    "question": "In 1866 he became general of the U.S. Army; the first officer so designated",
+    "answer": "Ulysses S. Grant",
+    "money": "$300",
+    "date": "1995-11-23",
+    "episode": 2584
+  },
+  {
+    "category": "POLAR EXPLORATION",
+    "question": "Robert Peary was surprised to hear these natives accompanying him complain of cold noses",
+    "answer": "Eskimos",
+    "money": "$200",
+    "date": "2000-01-06",
+    "episode": 3534
+  },
+  {
+    "category": "HALLS OF FAME",
+    "question": "\"Let's Make a Deal\"--name this Canadian who was inducted into the American TV Game Show Hall of Fame in 2007",
+    "answer": "Monty Hall",
+    "money": "$600",
+    "date": "2008-10-09",
+    "episode": 5539
+  },
+  {
+    "category": "TRANSPORTATION",
+    "question": "It's a luxurious chaffeur-driven auto, whether regular or \"stretch\"",
+    "answer": "Limousine",
+    "money": "$100",
+    "date": "1997-06-27",
+    "episode": 2970
+  },
+  {
+    "category": "CENTENARIANS",
+    "question": "Last name of football coach Amos Alonzo (1862-1965), pioneer of the onside kick & the flea flicker",
+    "answer": "Stagg",
+    "money": "$800",
+    "date": "2012-04-19",
+    "episode": 6359
+  },
+  {
+    "category": "THE WORLD ALMANAC AND BOOK OF FACTS",
+    "question": "160 square rods equals 1 of this square measure (that one was in the '09 book too)",
+    "answer": "an acre",
+    "money": "$1200",
+    "date": "2010-01-22",
+    "episode": 5840
+  },
+  {
+    "category": "OFFICIAL STATE THINGS",
+    "question": "Arizona's state flower is the blossom of this giant cactus",
+    "answer": "saguaro",
+    "money": "$1000",
+    "date": "2009-10-16",
+    "episode": 5770
+  },
+  {
+    "category": "THE GOLDEN GLOBE AWARDS",
+    "question": "Voted a \"Promising Newcomer\" in 1962, she won 10 years later for \"Carnal Knowledge\"",
+    "answer": "Ann-Margaret",
+    "money": "$800",
+    "date": "1990-01-19",
+    "episode": 1245
+  },
+  {
+    "category": "ADJECTIVES",
+    "question": "Pronounced differently, this adjective meaning \"pertaining to birth\" is a former province of South Africa",
+    "answer": "natal",
+    "money": "$1600",
+    "date": "2014-05-26",
+    "episode": 6846
+  },
+  {
+    "category": "HEY, THAT RHYMES",
+    "question": "A messy duplicate or Xerox",
+    "answer": "sloppy copy",
+    "money": "$1000",
+    "date": "2002-11-19",
+    "episode": 4192
+  },
+  {
+    "category": "WOMEN OF THE WORLD",
+    "question": "This Norwegian beauty is noted for her work with Ingmar Bergman & with UNICEF",
+    "answer": "Liv Ullmann",
+    "money": "$800",
+    "date": "2009-02-13",
+    "episode": 5630
+  },
+  {
+    "category": "21ST CENTURY HITMAKERS",
+    "question": "\"Teenage Dream\"",
+    "answer": "Katy Perry",
+    "money": "$200",
+    "date": "2011-02-24",
+    "episode": 6094
+  },
+  {
+    "category": "THE BIBLE",
+    "question": "In II Samuel he laments, \"Would God I had died for thee, O Absalom, my son, my son!\"",
+    "answer": "David",
+    "money": "$1000",
+    "date": "2001-12-13",
+    "episode": 3979
+  },
+  {
+    "category": "COMPOSE YOURSELF",
+    "question": "He wrote the libretto to his own opera \"Siegfried\"",
+    "answer": "Richard Wagner",
+    "money": "$800",
+    "date": "2003-03-17",
+    "episode": 4276
+  },
+  {
+    "category": "MEMORABLE MOVIES",
+    "question": "For this 1980 film Wally Schneiderman applied John Hurt's elaborate make-up",
+    "answer": "The Elephant Man",
+    "money": "$800",
+    "date": "2006-05-17",
+    "episode": 5003
+  },
+  {
+    "category": "JAPANESE HISTORY",
+    "question": "In 1281 a storm the Japanese called Kamikaze, or \"Divine Wind\", thwarted an amphibious attack by this Mongol",
+    "answer": "Kublai Khan",
+    "money": "$800",
+    "date": "2006-03-15",
+    "episode": 4958
+  },
+  {
+    "category": "PRESIDENTS & FIRST LADIES",
+    "question": "In 1913 this man featured on the old $100,000 bill signed the bill creating the Federal Reserve System",
+    "answer": "Woodrow Wilson",
+    "money": "$800",
+    "date": "1997-06-05",
+    "episode": 2954
+  },
+  {
+    "category": "I SAID \"NO\", \"NO\", \"NO\"",
+    "question": "Latin legal plea meaning to accept the charges without admitting guilt",
+    "answer": "nolo contendere",
+    "money": "$1600",
+    "date": "2008-07-04",
+    "episode": 5500
+  },
+  {
+    "category": "THE HOST WITH THE MOST",
+    "question": "Ed McMahon, 1983-1995",
+    "answer": "Star Search",
+    "money": "$2000",
+    "date": "2011-12-28",
+    "episode": 6278
+  },
+  {
+    "category": "BIOLOGY",
+    "question": "This Swedish botanist, known for his system of classification, was the first to note that whales are mammals",
+    "answer": "Carl Linnaeus",
+    "money": "$1000",
+    "date": "1990-05-14",
+    "episode": 1326
+  },
+  {
+    "category": "JONES",
+    "question": "He co-founded the Masters golf tournament",
+    "answer": "Bobby Jones",
+    "money": "$600",
+    "date": "2008-10-17",
+    "episode": 5545
+  },
+  {
+    "category": "A WORLD OF PIRATES",
+    "question": "In 1815 Washington Irving planned to join Stephen Decatur on an expedition against these north African pirates",
+    "answer": "Barbary Pirates",
+    "money": "$400",
+    "date": "2002-10-23",
+    "episode": 4173
+  },
+  {
+    "category": "NUMBER, PLEASE",
+    "question": "On a telephone, the letters GHI go with this number",
+    "answer": "4",
+    "money": "$500",
+    "date": "1995-11-17",
+    "episode": 2580
+  },
+  {
+    "category": "BE A QUICK CHANGE ARTIST",
+    "question": "If a book costs 2 Andy Jacksons & a customer gives you a Ulysses Grant, give him one of this man in change",
+    "answer": "Alexander Hamilton ($10)",
+    "money": "DD: $4,000",
+    "date": "2003-10-23",
+    "episode": 4399
+  },
+  {
+    "category": "ADJECTIVES OF THE YOUNG AND THE RESTLESS",
+    "question": "\"Please, Lily, understand, everything I did was to keep you and the twins safe.\"\"Cane, you pretended that you were dead and made me think that I was sleeping with a ghost.  I ended up in an insane asylum.  You're...\"...this 10-letter adjective from the Latin for \"look down on\" (& favored by Daffy Duck on occasion)",
+    "answer": "despicable",
+    "money": "$600",
+    "date": "2011-10-10",
+    "episode": 6221
+  },
+  {
+    "category": "BRITISH LITERATURE",
+    "question": "Concerning his \"Alice in Wonderland\" books, he said, \"I meant nothing but nonsense\"",
+    "answer": "Lewis Carroll",
+    "money": "$100",
+    "date": "2000-09-14",
+    "episode": 3684
+  },
+  {
+    "category": "WASHINGTON, D.C. SCULPTURE",
+    "question": "73 years after his death, a statue of this musician was unveiled outside the band hall at the Marine Barracks",
+    "answer": "John Philip Sousa",
+    "money": "DD: $200",
+    "date": "2013-03-06",
+    "episode": 6558
+  },
+  {
+    "category": "APPS",
+    "question": "Alec Baldwin was willing to get kicked off a flight rather than stop playing this game that's much like Scrabble",
+    "answer": "Words with Friends",
+    "money": "$800",
+    "date": "2013-09-24",
+    "episode": 6672
+  },
+  {
+    "category": "FIRST THINGS FIRST",
+    "question": "The first group to sell a million records were these \"Glow Worm\" brothers with \"Tiger Rag\" in 1930",
+    "answer": "The Mills Brothers",
+    "money": "$500",
+    "date": "2000-10-19",
+    "episode": 3709
+  },
+  {
+    "category": "ANAGRAMMED CANADIAN CITIES",
+    "question": "B.C.-ing you there:NOVA CURVE",
+    "answer": "Vancouver",
+    "money": "$600",
+    "date": "2006-04-13",
+    "episode": 4979
+  },
+  {
+    "category": "CROSS-EXAMINING THE WITS",
+    "question": "Did you or did you not write, in \"Man and Superman\", \"Liberty means responsibility.  That is why most men dread it\"",
+    "answer": "George Bernard Shaw",
+    "money": "$600",
+    "date": "2001-10-17",
+    "episode": 3938
+  },
+  {
+    "category": "A LITTLE BIT OF COUNTRY",
+    "question": "Toby Keith & this country great recently served up a hit called \"Beer For My Horses\"",
+    "answer": "Willie Nelson",
+    "money": "$2000",
+    "date": "2004-07-13",
+    "episode": 4587
+  },
+  {
+    "category": "LITERARY CROSSWORD CLUES \"T\"",
+    "question": "For Fitzgerald, it \"is the Night\"(6)",
+    "answer": "Tender",
+    "money": "$400",
+    "date": "2011-12-21",
+    "episode": 6273
+  },
+  {
+    "category": "B__D",
+    "question": "Hef's home in Chicago was famous for its round one",
+    "answer": "Bed",
+    "money": "$200",
+    "date": "2000-07-13",
+    "episode": 3669
+  },
+  {
+    "category": "INSECTS",
+    "question": "When hunting, this carnivore whose name means \"prophet\" raises its forelegs into a pious position",
+    "answer": "a praying mantis",
+    "money": "500",
+    "date": "1990-07-14",
+    "episode": 5
+  },
+  {
+    "category": "OPERA CHARACTERS",
+    "question": "In Flotow's opera \"Martha\", Lady Harriet is a lady-in-waiting to this last Stuart queen of England",
+    "answer": "Queen Anne",
+    "money": "$1000",
+    "date": "1996-12-20",
+    "episode": 2835
+  },
+  {
+    "category": "BRITISH ROYALS IN THE MILITARY",
+    "question": "In 1982 Prince Andrew flew helicopters during a war against this country",
+    "answer": "Argentina",
+    "money": "DD: $1,800",
+    "date": "2008-07-15",
+    "episode": 5507
+  },
+  {
+    "category": "MISHEARD LYRICS",
+    "question": "From a 1964 Elvis movie:\"People Love Bagels\"",
+    "answer": "Viva Las Vegas",
+    "money": "$1000",
+    "date": "2003-01-15",
+    "episode": 4233
+  },
+  {
+    "category": "GEOGRAPHICAL QUOTES",
+    "question": "To Ausonius it was \"First among cities, home of the gods\"",
+    "answer": "Rome",
+    "money": "$300",
+    "date": "1997-06-05",
+    "episode": 2954
+  },
+  {
+    "category": "PRESIDENTS",
+    "question": "In the first presidential White House wedding, he married Frances Folsom",
+    "answer": "Grover Cleveland",
+    "money": "$800",
+    "date": "1991-11-15",
+    "episode": 1660
+  },
+  {
+    "category": "THE ROOSEVELTS",
+    "question": "With her father Theodore's sudden elevation to the presidency in 1901, she became an instant celebrity",
+    "answer": "Alice",
+    "money": "$2000",
+    "date": "2013-05-01",
+    "episode": 6598
+  },
+  {
+    "category": "FASHION",
+    "question": "Some fashionable women dyed their hair blue in this ancient Greek city, home of Socrates",
+    "answer": "Athens",
+    "money": "$200",
+    "date": "1986-02-06",
+    "episode": 369
+  },
+  {
+    "category": "TV THEME SONG HITS",
+    "question": "1981:\"Believe It Or Not\"",
+    "answer": "The Greatest American Hero",
+    "money": "$1000",
+    "date": "2012-10-24",
+    "episode": 6463
+  },
+  {
+    "category": "THEY OUGHT TO MAKE A MOVIE",
+    "question": "\"Julie & Julia\" was big; maybe Meryl wants to play this Betty whose cookbook is in its 10th edition",
+    "answer": "Betty Crocker",
+    "money": "$400",
+    "date": "2011-10-04",
+    "episode": 6217
+  },
+  {
+    "category": "PLACE NAME ORIGINS",
+    "question": "This Belgian port's name may mean \"against the dike\"",
+    "answer": "Antwerp",
+    "money": "$800",
+    "date": "1995-07-04",
+    "episode": 2512
+  },
+  {
+    "category": "12-LETTER WORDS",
+    "question": "It's a doctor who operates on the brain",
+    "answer": "a neurosurgeon",
+    "money": "$600",
+    "date": "2009-06-29",
+    "episode": 5726
+  },
+  {
+    "category": "REQUIRED READING",
+    "question": "In 2 classic survival stories, it's the last name of a Swiss family & the first name of Mr. Crusoe",
+    "answer": "Robinson",
+    "money": "$100",
+    "date": "2000-10-03",
+    "episode": 3697
+  },
+  {
+    "category": "FASHION DESIGNERS",
+    "question": "A swimsuit by this designer in 1959 featured a large cutaway; topless came later",
+    "answer": "Rudi Gernreich",
+    "money": "$1600",
+    "date": "2003-02-20",
+    "episode": 4259
+  },
+  {
+    "category": "'60S MUSCLE CARS",
+    "question": "Later maker of the Pacer, this automaker's Javelin hit the mark",
+    "answer": "American Motors (AMC)",
+    "money": "$1000",
+    "date": "2003-02-21",
+    "episode": 4260
+  },
+  {
+    "category": "PLANT SCIENCE",
+    "question": "From the Latin for \"leaf\", it's the divided leaf of a fern or palm tree",
+    "answer": "frond",
+    "money": "$1200",
+    "date": "2013-11-14",
+    "episode": 6709
+  },
+  {
+    "category": "CONTESTS",
+    "question": "At the 1999 Westminster Dog Show, CH Loteki Supernatural Being won this award for matching the breed standard",
+    "answer": "Best in Show",
+    "money": "$1000",
+    "date": "2000-01-25",
+    "episode": 3547
+  },
+  {
+    "category": "FUN WITH DINOSAURS",
+    "question": "This 3-horned plant-eater's 10-foot-long head is said to be the largest ever possessed by a land animal",
+    "answer": "a Triceratops",
+    "money": "$1600",
+    "date": "2009-07-17",
+    "episode": 5740
+  },
+  {
+    "category": "GETTING POSSESSIVE",
+    "question": "You'll find this triangular island about 4 miles off the southeast coast of Massachusetts",
+    "answer": "Martha's Vineyard",
+    "money": "$400",
+    "date": "2000-07-19",
+    "episode": 3673
+  },
+  {
+    "category": "SPORTS NUMBERS",
+    "question": "Number in the name of a Florida auto race first run on February 22, 1959",
+    "answer": "(Daytona) 500",
+    "money": "$400",
+    "date": "2004-01-22",
+    "episode": 4464
+  },
+  {
+    "category": "STRIFE WITH FATHER",
+    "question": "She whacked her stepmom, saw what she'd done, then \"gave her father 41\"",
+    "answer": "Lizzie Borden",
+    "money": "$200",
+    "date": "1998-03-24",
+    "episode": 3132
+  },
+  {
+    "category": "HOLIDAYS & OBSERVANCES",
+    "question": "In 1723, 120 years before Christmas cards, decorated writing paper was sold for lovers to use on this holiday",
+    "answer": "Valentine's Day",
+    "money": "$100",
+    "date": "1998-05-14",
+    "episode": 3169
+  },
+  {
+    "category": "TUNNEL",
+    "question": "The 11 1/2-mile tunnel between Bologna & Florence, Italy bears the name of this Italian mountain chain",
+    "answer": "the Apennines",
+    "money": "$1000",
+    "date": "2007-04-16",
+    "episode": 5211
+  },
+  {
+    "category": "\"SETT\"ING",
+    "question": "Yet to be populated, or ill at ease",
+    "answer": "unsettled",
+    "money": "$600",
+    "date": "2012-02-20",
+    "episode": 6316
+  },
+  {
+    "category": "ZOOLOGY",
+    "question": "The opposite of hibernate; lungfish & some snails do it",
+    "answer": "Estivate (sleep during the summer)",
+    "money": "$800",
+    "date": "1991-11-04",
+    "episode": 1651
+  },
+  {
+    "category": "AGRICULTURE",
+    "question": "In the 1700s C. Townshend discovered that turnips could be the 4th crop in a 4-field system of this",
+    "answer": "crop rotation",
+    "money": "$800",
+    "date": "1994-11-03",
+    "episode": 2339
+  },
+  {
+    "category": "GOD DID IT!",
+    "question": "In Genesis 19, God got a tad angry with Sodom & rained on it fire & this, an old word for sulfur",
+    "answer": "brimstone",
+    "money": "$200",
+    "date": "2012-03-21",
+    "episode": 6338
+  },
+  {
+    "category": "BRAIN STRAIN",
+    "question": "From one to ten, the only digit with the same number of letters as its value",
+    "answer": "4 (four)",
+    "money": "$400",
+    "date": "1999-02-08",
+    "episode": 3326
+  },
+  {
+    "category": "FUN WITH GEOMETRY",
+    "question": "If the Sea Dragon theme park ride moves in a semicircle, it describes an arc of this many degrees",
+    "answer": "180",
+    "money": "$400",
+    "date": "2003-01-17",
+    "episode": 4235
+  },
+  {
+    "category": "POTPOURRI",
+    "question": "In Britain, it's a pullover sweater; in America, it's a sleeveless dress worn over a blouse",
+    "answer": "jumper",
+    "money": "$800",
+    "date": "2008-01-10",
+    "episode": 5374
+  },
+  {
+    "category": "KIDDIE LIT",
+    "question": "Yes, my friend, this fictional filly's name means \"little girl\" in Swedish",
+    "answer": "Flicka",
+    "money": "$300",
+    "date": "1990-02-01",
+    "episode": 1254
+  },
+  {
+    "category": "PLACES",
+    "question": "Governor Granholm, not shown works in this city",
+    "answer": "Lansing",
+    "money": "$800",
+    "date": "2004-12-16",
+    "episode": 4669
+  },
+  {
+    "category": "THE WRITER WRITES A LETTER",
+    "question": "4 years before writing \"Little Dorrit\", he wrote his wife that their daughter \"Little Dora...is suddenly stricken ill\"",
+    "answer": "Charles Dickens",
+    "money": "$1600",
+    "date": "2004-03-26",
+    "episode": 4510
+  },
+  {
+    "category": "HISTORIC LEADERS' LETTERS TO SANTA",
+    "question": "\"...& one last thing.  If a Spaniard ever topples my rule as the 9th Aztec emperor, I'd like but one thing...revenge!\"",
+    "answer": "Montezuma",
+    "money": "$1200",
+    "date": "2011-12-16",
+    "episode": 6270
+  },
+  {
+    "category": "WHAT DAY OF THE WEEK WAS IT?",
+    "question": "March 31, 2002, seen here",
+    "answer": "Sunday",
+    "money": "$400",
+    "date": "2004-01-22",
+    "episode": 4464
+  },
+  {
+    "category": "ART & ARTISTS",
+    "question": "He called his abstract style in paintings like \"Composition with Red, Yellow and Blue\" Neoplasticism",
+    "answer": "(Piet) Mondrian",
+    "money": "$1000",
+    "date": "2006-05-17",
+    "episode": 5003
+  },
+  {
+    "category": "DENTISTRY",
+    "question": "Its speed is about 300,000-400,000 revolutions per minute",
+    "answer": "the drill",
+    "money": "$300",
+    "date": "1988-02-11",
+    "episode": 799
+  },
+  {
+    "category": "ART",
+    "question": "Now in the British Museum, the sculptures known as these marbles once adorned the Parthenon",
+    "answer": "Elgin marbles",
+    "money": "$800",
+    "date": "1997-05-12",
+    "episode": 2936
+  },
+  {
+    "category": "TV PERFORMERS BY ROLE",
+    "question": "First Lady Abigail Bartlet",
+    "answer": "Stockard Channing",
+    "money": "$600",
+    "date": "2006-05-01",
+    "episode": 4991
+  },
+  {
+    "category": "THE TOPIC OF CAPRICORNS",
+    "question": "Aptly, this author of \"Tropic of Capricorn\" was, in fact, a Capricorn",
+    "answer": "(Henry) Miller",
+    "money": "$400",
+    "date": "2012-10-18",
+    "episode": 6459
+  },
+  {
+    "category": "SOVIET MAN",
+    "question": "T.D. Lysenko, who thought acquired traits can be inherited, ran the USSR's Institute of this, the biology of heredity",
+    "answer": "genetics",
+    "money": "$1600",
+    "date": "2006-01-10",
+    "episode": 4912
+  },
+  {
+    "category": "NEW JERSEY BUSINESS & INDUSTRY",
+    "question": "Its trademark Rock of Gibraltar made its debut in 1896",
+    "answer": "Prudential",
+    "money": "$200",
+    "date": "1997-10-02",
+    "episode": 3009
+  },
+  {
+    "category": "MILK",
+    "question": "Milk is forced through small openings at high pressure to evenly distribute the cream in this process",
+    "answer": "homogenization",
+    "money": "$2000",
+    "date": "2009-06-10",
+    "episode": 5713
+  },
+  {
+    "category": "GERMAN CITIES",
+    "question": "From 1701 to 1871 it was the capital of the Kingdom of Prussia",
+    "answer": "Berlin",
+    "money": "$1200",
+    "date": "2008-01-14",
+    "episode": 5376
+  },
+  {
+    "category": "DOUBLE E, DOUBLE O",
+    "question": "Stringlike metal shavings used for scouring, polishing & smoothing; no sheep necessary",
+    "answer": "steel wool",
+    "money": "DD: $2,200",
+    "date": "2011-05-16",
+    "episode": 6151
+  },
+  {
+    "category": "U.S. FIRSTS",
+    "question": "On Aug. 2, 1962 the U.S. submarines Skate & Seadragon made a historic joint surfacing here",
+    "answer": "North Pole",
+    "money": "$800",
+    "date": "1999-09-16",
+    "episode": 3454
+  },
+  {
+    "category": "COUNTIES BY STATE",
+    "question": "McClain,McCurtain,Muskogee",
+    "answer": "Oklahoma",
+    "money": "$400",
+    "date": "1998-02-18",
+    "episode": 3108
+  },
+  {
+    "category": "FICTIONAL BEER",
+    "question": "A couple of title Milwaukee gals helped make Shotz Beer on this show",
+    "answer": "Laverne & Shirley",
+    "money": "$400",
+    "date": "2013-04-04",
+    "episode": 6579
+  },
+  {
+    "category": "NOVELTY SONGS",
+    "question": "This 1920s novelty hit supposedly got its title from the confusing statement of a Greek fruit peddler",
+    "answer": "\"Yes, We Have No Bananas\"",
+    "money": "DD: $4,000",
+    "date": "2004-11-09",
+    "episode": 4642
+  },
+  {
+    "category": "REVERSE",
+    "question": "A phrase meaning a 180 in your situation, or a film with Jeremy Irons & Glenn Close as Claus & Sunny von Bulow",
+    "answer": "Reversal of Fortune",
+    "money": "$600",
+    "date": "2013-09-18",
+    "episode": 6668
+  },
+  {
+    "category": "NO PROMISES, NO DEMANDS",
+    "question": "No promises:Investment cos. often remind us this alliterative phrase \"is no guarantee of future results\"",
+    "answer": "past performance",
+    "money": "$600",
+    "date": "2007-12-27",
+    "episode": 5364
+  },
+  {
+    "category": "\"SO\" BE IT",
+    "question": "Another name for a couch",
+    "answer": "a sofa",
+    "money": "$400",
+    "date": "2013-02-04",
+    "episode": 6536
+  },
+  {
+    "category": "WORLD FACTS",
+    "question": "San Cristobal is the capital of these islands, a province of Ecuador",
+    "answer": "the Galápagos",
+    "money": "$600",
+    "date": "1992-09-08",
+    "episode": 1837
+  },
+  {
+    "category": "RELIGIOUS & SECULAR HOMOPHONES",
+    "question": "A holy compartment in a synagogue, or a curved shape",
+    "answer": "ark / arc",
+    "money": "$1200",
+    "date": "2014-10-10",
+    "episode": 6915
+  },
+  {
+    "category": "CHRISTMAS CUSTOMS",
+    "question": "A treasured history tradition in New York City is ice-skating beneath the giant Christmas tree in this plaza",
+    "answer": "Rockefeller Plaza",
+    "money": "$500",
+    "date": "1998-12-10",
+    "episode": 3284
+  },
+  {
+    "category": "TIME FOR A HAIRCUT",
+    "question": "(Jon of the Clue Crew points to the whirl of hair on the top of a man's head on the monitor.)  To hairdressers, it's not just a piece sticking up; it's the center of the hair's growth pattern.  Find it, and figure out which way the hair falls",
+    "answer": "cowlick",
+    "money": "$400",
+    "date": "2007-03-20",
+    "episode": 5192
+  },
+  {
+    "category": "LAW",
+    "question": "Before Jimmy Smits nailed perps on \"NYPD Blue\", he defended them as Victor Sifuentes on this show",
+    "answer": "L.A. Law",
+    "money": "$100",
+    "date": "2001-05-28",
+    "episode": 3866
+  },
+  {
+    "category": "MISNOMERS",
+    "question": "Though its name means \"new star\" it's just a star that flares up to many times its normal brightness",
+    "answer": "Nova",
+    "money": "$300",
+    "date": "1998-07-17",
+    "episode": 3215
+  },
+  {
+    "category": "COOKING",
+    "question": "\"Cooking A to Z\" recommends you choose one with a full or rat-tail tang & full rivets",
+    "answer": "Knife",
+    "money": "$500",
+    "date": "1993-11-24",
+    "episode": 2123
+  },
+  {
+    "category": "A NATION OF VODKA BRANDS",
+    "question": "Grey Goose",
+    "answer": "France",
+    "money": "$1000",
+    "date": "2011-01-19",
+    "episode": 6068
+  },
+  {
+    "category": "COMPUTER GENIUSES",
+    "question": "Working in Texas Instruments' semiconductor building, Jack Kilby hit on the idea of this, the IC for short",
+    "answer": "integrated circuit",
+    "money": "$1200",
+    "date": "2003-05-20",
+    "episode": 4322
+  },
+  {
+    "category": "ASTRONOMY",
+    "question": "The acronym SETI stands for the Search for this",
+    "answer": "Extraterrestrial Intelligence",
+    "money": "$400",
+    "date": "1998-07-13",
+    "episode": 3211
+  },
+  {
+    "category": "LUCILLE BALL'S 100TH BIRTHDAY",
+    "question": "In 1940 29-year-old Lucy married this 23-year-old Cuban bandleader",
+    "answer": "Desi Arnaz",
+    "money": "$400",
+    "date": "2011-04-28",
+    "episode": 6139
+  },
+  {
+    "category": "CELEBRITIES",
+    "question": "He made his first appearance on \"The Tonight Show\" in 1977 -- now he hosts it",
+    "answer": "Jay Leno",
+    "money": "$100",
+    "date": "2001-05-09",
+    "episode": 3853
+  },
+  {
+    "category": "AFRICAN SETTINGS",
+    "question": "\"The Alexandria Quartet\"",
+    "answer": "Egypt",
+    "money": "$400",
+    "date": "2014-04-04",
+    "episode": 6810
+  },
+  {
+    "category": "ENDS IN \"GI\", JOE",
+    "question": "Ancient Persian priests, like those who visited the baby Jesus",
+    "answer": "the magi",
+    "money": "$200",
+    "date": "2010-10-13",
+    "episode": 5998
+  },
+  {
+    "category": "THE OLD FARMER'S ALMANAC 2013",
+    "question": "Your 2013 weather forecast: expect fewer tornadoes but be ready for these to threaten the Gulf & Atlantic Coasts in June",
+    "answer": "hurricanes",
+    "money": "$400",
+    "date": "2013-02-14",
+    "episode": 6544
+  },
+  {
+    "category": "BORN & DIED: AUTHORS EDITION",
+    "question": "Born in Moscow November 11, 1821, gave \"Notes From the Underground\", headed underground February 9, 1881",
+    "answer": "Dostoyevsky",
+    "money": "$1200",
+    "date": "2012-06-06",
+    "episode": 6393
+  },
+  {
+    "category": "PULITZER PRIZE-WINNING DRAMAS",
+    "question": "In 1989 her \"Heidi Chronicles\" was the story of the night; sadly she passed away in 2006",
+    "answer": "Wasserstein",
+    "money": "$1600",
+    "date": "2007-01-24",
+    "episode": 5153
+  },
+  {
+    "category": "OTHER POWER RANGERS",
+    "question": "The oldest state law enforcement agency in the U.S., it began in 1823 with 10 men",
+    "answer": "the Texas Rangers",
+    "money": "$400",
+    "date": "2007-06-11",
+    "episode": 5251
+  },
+  {
+    "category": "TOM WOLFE",
+    "question": "It was Wolfe who first predicted that the 1970s \"Will come to be known as\" this \"decade\"",
+    "answer": "the Me Decade",
+    "money": "$400",
+    "date": "2004-12-14",
+    "episode": 4667
+  },
+  {
+    "category": "THE STING",
+    "question": "Singer/actor Sting played Feyd-Rautha in this David Lynch film based on a Frank Herbert novel",
+    "answer": "Dune",
+    "money": "$800",
+    "date": "2004-07-23",
+    "episode": 4595
+  },
+  {
+    "category": "ARMCHAIR GENERAL",
+    "question": "I gotta hand it to Gen. Gebhard von Blucher, 72 years old, commanding the Prussian troops at this June 1815 battle",
+    "answer": "Waterloo",
+    "money": "$800",
+    "date": "2010-10-29",
+    "episode": 6010
+  },
+  {
+    "category": "THE NOVEL'S FIRST DRAFT?",
+    "question": "\"We're saved!\" Piggy exclaimed to Ralph. \"Looking back\", Simon said, \"We probably shouldn't have eaten Jack\"",
+    "answer": "Lord of the Flies",
+    "money": "$1000",
+    "date": "2010-04-08",
+    "episode": 5894
+  },
+  {
+    "category": "RELIGIOUS LEADERS",
+    "question": "The Fatimids, who ruled north Africa from 909 to 1171, were named for Fatima, this prophet's daughter",
+    "answer": "Muhammed",
+    "money": "$200",
+    "date": "2013-01-15",
+    "episode": 6522
+  },
+  {
+    "category": "MIDDLE NAMES",
+    "question": "Middle name of Franklin Adams, the witty columnist known as F.P.A.",
+    "answer": "Pierce",
+    "money": "$400",
+    "date": "1991-10-17",
+    "episode": 1639
+  },
+  {
+    "category": "SCIENCE & TECH DIGEST: 1885",
+    "question": "German engineer Carl Friedrich Benz develops the first working one of these powered by a gasoline engine",
+    "answer": "automobile",
+    "money": "$800",
+    "date": "2003-07-10",
+    "episode": 4359
+  },
+  {
+    "category": "AMERICAN MUSEUMS",
+    "question": "The Lila Acheson Wallace wing of the Metropolitan Museum of Art is named for the co-founder of this magazine",
+    "answer": "Reader's Digest",
+    "money": "$500",
+    "date": "1993-11-18",
+    "episode": 2119
+  },
+  {
+    "category": "VICE PRESIDENTS",
+    "question": "This vice president had the same July 8 birthday as his very wealthy grandfather",
+    "answer": "(Nelson) Rockefeller",
+    "money": "$1200",
+    "date": "2011-12-02",
+    "episode": 6260
+  },
+  {
+    "category": "STATE CAPITALS",
+    "question": "Lincoln lived & practiced law here for 25 years before becoming president",
+    "answer": "Springfield",
+    "money": "$400",
+    "date": "1984-09-13",
+    "episode": 4
+  },
+  {
+    "category": "PARTS OF A BUILDING",
+    "question": "It's a tastier-sounding synonym for a doorcheck or doorpost",
+    "answer": "Door jamb",
+    "money": "$300",
+    "date": "2000-03-22",
+    "episode": 3588
+  },
+  {
+    "category": "1867",
+    "question": "On March 1, 1867 it was admitted to the Union as the 37th state with Omaha as its capital",
+    "answer": "Nebraska",
+    "money": "$400",
+    "date": "2003-07-16",
+    "episode": 4363
+  },
+  {
+    "category": "I LOVE LUCY",
+    "question": "In one famous show, Lucy got tipsy while touting this cure-all medicine for a commercial",
+    "answer": "Vitameatavegamin",
+    "money": "$500",
+    "date": "1992-10-13",
+    "episode": 1862
+  },
+  {
+    "category": "HUMAN BODY NUMBERS",
+    "question": "Total digits on all my hands & feet",
+    "answer": "20",
+    "money": "$200",
+    "date": "2010-07-09",
+    "episode": 5960
+  },
+  {
+    "category": "RECESS",
+    "question": "Run, don't walk to this up & down recess plaything also called a seesaw",
+    "answer": "a teeter-totter",
+    "money": "$600",
+    "date": "2011-07-08",
+    "episode": 6190
+  },
+  {
+    "category": "COME TO OUR \"ADE\"",
+    "question": "Wesley Snipes has played this Marvel comics vampire slayer in 3 films",
+    "answer": "Blade",
+    "money": "$1200",
+    "date": "2013-11-05",
+    "episode": 6702
+  },
+  {
+    "category": "IT'S A DISASTER",
+    "question": "As many as 3,000 may have perished as a result of the earthquake & fire that ravaged San Francisco in April of this year",
+    "answer": "1906",
+    "money": "$800",
+    "date": "2006-12-08",
+    "episode": 5120
+  },
+  {
+    "category": "TEENS IN LITERATURE",
+    "question": "This novel tells us that 16-year-old Esmeralda can dance with rotating swords balanced on her forehead",
+    "answer": "\"The Hunchback of Notre Dame\"",
+    "money": "DD: $1,200",
+    "date": "2001-05-10",
+    "episode": 3854
+  },
+  {
+    "category": "WOMEN IN HISTORY",
+    "question": "Famous 15th century heroine depicted in the statue seen here:",
+    "answer": "Joan of Arc",
+    "money": "DD: $500",
+    "date": "1997-11-14",
+    "episode": 3040
+  },
+  {
+    "category": "7 DEADLY SINS",
+    "question": "Gary Cooper was this \"of the Yankees\" when playing Lou Gehrig in a 1942 weeper",
+    "answer": "Pride",
+    "money": "$800",
+    "date": "2005-01-19",
+    "episode": 4693
+  },
+  {
+    "category": "I FEEL A BIT \"ILL\"",
+    "question": "Adjective describing a high-pitched & piercing sound",
+    "answer": "shrill",
+    "money": "$800",
+    "date": "2009-07-01",
+    "episode": 5728
+  },
+  {
+    "category": "\"ER\"",
+    "question": "This 3-word Gaelic phrase means \"Ireland Forever\"",
+    "answer": "\"Erin Go Bragh!\"",
+    "money": "$800",
+    "date": "2003-06-17",
+    "episode": 4342
+  }
+]
