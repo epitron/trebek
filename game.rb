@@ -107,7 +107,7 @@ class Hint
     return :correct if guess == downcase_answer
 
     hint.chars.each_with_index do |h, i|
-      if h == "_" and downcase_answer[i] == guess[i]
+      if h == HIDDEN_CHAR and downcase_answer[i] == guess[i]
         hint[i] = answer[i]
         result = :some_letters
       end
@@ -265,8 +265,9 @@ class Game
   end
 
   def show_question_and_round
-    output "Round \2#{@current_round}\2! Category: \2#{@current_question.category}\2, for \2#{@current_question.money}\2 (from episode ##{@current_question.episode}, aired #{@current_question.date})"
-    output "Question: \2#{@current_question.question}\2"
+    q = @current_question
+    output "\2#{q.category}\2 for \2#{q.money}\2 (from episode ##{q.episode}, aired #{q.date})"
+    output "\2#{q.question}\2"
   end
 
   def show_lose
