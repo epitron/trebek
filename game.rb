@@ -266,7 +266,7 @@ class Game
 
   def show_question_and_round
     q = @current_question
-    output "\2#{q.category}\2 for \2#{q.money}\2 (from episode ##{q.episode}, aired #{q.date})"
+    output "The category is \2#{q.category}\2 for \2#{q.money}\2. (from #{q.date})"
     output "\2#{q.question}\2"
   end
 
