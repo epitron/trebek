@@ -287,7 +287,7 @@ class Game
 
   def show_win(nick)
     confirm = ["Yes,", "That's right,", "Correct,", "Good job, it was"].pick
-    output "#{confirm} \2#{q.answer}\2. #{q.money} goes to \2#{nick}\2, putting them at a total of $#{scores[nick]}."
+    output "#{confirm} \2#{q.answer}\2. #{q.money} goes to \2#{nick}\2, for a total of $#{scores[nick]}."
   end
 
   def show_hint
@@ -299,11 +299,13 @@ class Game
   end
 
   def show_skip_question
-    output "I guess that one was too hard. Let's move on..."
+    taunt = ["I guess that one was too hard.", "Too challenging?", "Nobody?", "Not your cup of tea?"].pick
+    move_on = ["Let's move on...", "Let's try another...", "Maybe we can find something a bit more suitable..."].pick
+    output "#{taunt} #{move_on}"
   end    
 
   def show_game_over
-    output "That's all folks!"
+    output "And that's the game! Tune in tomorrow."
   end
 
   def playing?
