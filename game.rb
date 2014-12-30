@@ -11,46 +11,33 @@
 require 'epitools'
 
 
-class Scores
+class String
 
-  def initialize(filename="scores.json")
-    @filename = filename
-    load!
-  end
+  class IndexedChar < Struct.new(:char, :index)
+    include Comparable
 
-  def [](nick)
-    @winnings[nick]
-  end
+    alias c char
+    alias i index
 
-  def winner!(nick, amount)
-    @winnings[nick] += amount.scan(/\d+/).join.to_i
-    save!
-  end
-
-  def load!
-    if File.exists? @filename
-      @winnings = JSON.parse(File.read(@filename))
-    else
-      @winnings = {}
+    def <=>(other)
+      other ? c.downcase <=> other.c.downcase : nil
     end
 
-    @winnings.default = 0
+    def inspect
+      %{'#{c}'@#{i}}
+    end
+
   end
 
-  def save!
-    File.write(@filename, JSON.pretty_generate(@winnings))
+  def indexed_chars
+    each_char.with_index.map {|c,i| IndexedChar.new(c, i) }
   end
 
-  def top(n=10)
-    @winnings.take(n)
-  end
-
-  def all
-    @winnings.sort_by { |k,v| -v }
+  def indexed_word_chars
+    indexed_chars.select {|c| c.c =~ /\w/ }
   end
 
 end
-
 
 
 class Hint
@@ -100,15 +87,15 @@ class Hint
   end
 
   def guess?(guess)
-    guess           = guess.downcase
-    downcase_answer = answer.downcase
-    result          = nil
+    guess_chars             = guess.indexed_word_chars
+    answer_chars            = answer.indexed_word_chars
+    result                  = nil
 
-    return :correct if guess == downcase_answer
+    return :correct if guess_chars == answer_chars
 
-    hint.chars.each_with_index do |h, i|
-      if h == HIDDEN_CHAR and downcase_answer[i] == guess[i]
-        hint[i] = answer[i]
+    answer_chars.zip(guess_chars) do |answer_char, guess_char|
+      if hint[answer_char.i] == HIDDEN_CHAR and answer_char == guess_char
+        hint[answer_char.i] = answer_char.c # reveal letter
         result = :some_letters
       end
     end
@@ -345,6 +332,51 @@ class Game
   end
 
 end
+
+
+
+class Scores
+
+  def initialize(filename="scores.json")
+    @filename = filename
+    load!
+  end
+
+  def [](nick)
+    @winnings[nick]
+  end
+
+  def winner!(nick, amount)
+    @winnings[nick] += amount.scan(/\d+/).join.to_i
+    save!
+  end
+
+  def load!
+    if File.exists? @filename
+      @winnings = JSON.parse(File.read(@filename))
+    else
+      @winnings = {}
+    end
+
+    @winnings.default = 0
+  end
+
+  def save!
+    File.write(@filename, JSON.pretty_generate(@winnings))
+  end
+
+  def top(n=10)
+    @winnings.take(n)
+  end
+
+  def all
+    @winnings.sort_by { |k,v| -v }
+  end
+
+end
+
+
+
 
 
 if $0 == __FILE__
