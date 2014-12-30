@@ -161,6 +161,14 @@ class Question
     hint.total_hints
   end
 
+  def question_with_period
+    if question =~ /[\.\!\?]$/
+      question
+    else
+      question + "."
+    end
+  end
+
 end
 
 
@@ -174,6 +182,8 @@ class Game
     @questions = Path[questions_file].parse
     @scores = Scores.new
   end
+
+  def q; @current_question; end
 
   def start!(&block)
     @game_thread = Thread.new do
@@ -194,13 +204,13 @@ class Game
   end
 
   def next_question!
-    output "Okay, skipping that question..."
+    show_skip_question
     @skip_round = true
     game_thread.wakeup
   end
 
   def main_loop
-    output "Game starting! (Drawing from a pool of #{@questions.size} questions)"
+    show_game_start
 
     @current_round = 0
 
@@ -233,7 +243,7 @@ class Game
       next if @skip_round
 
       if @current_round < config.rounds
-        show_between_rounds(config.round_delay)
+        # show_between_rounds(config.round_delay)
         sleep config.round_delay
       else
         show_game_over
@@ -244,13 +254,11 @@ class Game
 
   def guess!(nick, guess)
     if @current_question 
-      puts "<#{nick}> guessed: #{guess.inspect}"
-
       case @current_question.guess? guess 
       when :some_letters
         show_hint
       when :correct
-        scores.winner!(nick, @current_question.money)
+        scores.winner!(nick, q.money)
         show_win(nick)
         @round_over = true
         game_thread.wakeup
@@ -264,27 +272,35 @@ class Game
     config.on_output.call msg
   end
 
+  def show_game_start
+    output "It's time to play the game! Let's take a look at the board..."
+  end
+
   def show_question_and_round
-    q = @current_question
-    output "The category is \2#{q.category}\2 for \2#{q.money}\2. (from #{q.date})"
-    output "\2#{q.question}\2"
+    output "The category is \2#{q.category}\2 for \2#{q.money}\2 (aired: #{q.date})"
+    output "\2#{q.question_with_period}\2"
   end
 
   def show_lose
-    output "Nobody got it! Answer: \2#{@current_question.answer}\2"
+    output "Nobody? It's \2#{q.answer}\2.... \2#{q.answer}\2."
   end
 
   def show_win(nick)
-    output "That's right \2#{nick}\2, the answer was \2#{@current_question.answer}\2! You win #{@current_question.money}! (Total winnings: $#{scores[nick]})"
+    confirm = ["Yes,", "That's right,", "Correct,", "Good job, it was"].pick
+    output "#{confirm} \2#{q.answer}\2. #{q.money} goes to \2#{nick}\2, putting them at a total of $#{scores[nick]}."
   end
 
   def show_hint
-    output "Hint: \2#{@current_question.hint}\2"
+    output "Hint: \2#{q.hint}\2"
   end
 
   def show_between_rounds(seconds)
     output "Next round starts in #{seconds} seconds."
   end
+
+  def show_skip_question
+    output "I guess that one was too hard. Let's move on..."
+  end    
 
   def show_game_over
     output "That's all folks!"
