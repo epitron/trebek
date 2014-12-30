@@ -15,8 +15,6 @@ class Scores
 
   def initialize(filename="scores.json")
     @filename = filename
-    @winnings = Hash.new(0)
-
     load!
   end
 
@@ -32,13 +30,16 @@ class Scores
   def load!
     if File.exists? @filename
       @winnings = JSON.parse(File.read(@filename))
+    else
+      @winnings = {}
     end
+
+    @winnings.default = 0
   end
 
   def save!
     File.write(@filename, JSON.pretty_generate(@winnings))
   end
-
 
   def top(n=10)
     @winnings.take(n)
@@ -64,7 +65,6 @@ class Hint
     @total_letters  = @hint.scan(HIDDEN_CHAR).size
     @revealed       = 0.0
     @reveal_percent = 0.2
-    @first_hint     = true
   end
 
   def letters_left
@@ -94,11 +94,7 @@ class Hint
   end
 
   def next_hint
-    if @first_hint
-      @first_hint = false
-    else
-      reveal(@reveal_percent)
-    end
+    reveal(@reveal_percent)
 
     hint
   end
@@ -324,7 +320,7 @@ class Game
 
     # These are variables that the user can set
     config_var :rounds, 10
-    config_var :round_length, 30
+    config_var :round_length, 60
     config_var :round_delay, 5
 
   end
@@ -335,8 +331,8 @@ end
 if $0 == __FILE__
   game = Game.new("questions/some.json")
   game.start! do
-    rounds 3
-    round_length 15
+    # rounds 3
+    # round_length 15
 
     on_output do |msg|
       puts msg
