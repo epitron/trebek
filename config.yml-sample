@@ -1,0 +1,20 @@
+defaults:
+  nick: trebek
+  user: trebek
+  realname: "Suck it!"
+
+efnet:
+  server: "irc.servercentral.net"
+  port: 9999
+  ssl: true
+  channels:
+    - "#channel"
+    - "#another_channel"
+
+freenode:
+  server: irc.freenode.net"
+  port: 6697
+  ssl: true
+  password: "nick:pass"
+  channels:
+    - "#trebek"

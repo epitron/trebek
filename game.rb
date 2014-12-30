@@ -199,7 +199,7 @@ class Game
 
   def next_question!
     output "Okay, skipping that question..."
-    @round_over = true
+    @skip_round = true
     game_thread.wakeup
   end
 
@@ -221,7 +221,7 @@ class Game
 
       loop do
         sleep delay
-        break if @round_over
+        break if @round_over or @skip_round
 
         @current_question.hint.next_hint
         
@@ -234,7 +234,7 @@ class Game
         show_hint
       end
 
-      break if @round_over
+      next if @skip_round
 
       if @current_round < config.rounds
         show_between_rounds(config.round_delay)

@@ -15,7 +15,7 @@ class Trebek
 
   def initialize(*args)
     super
-    @game = Game.new("questions/some.json")
+    @game = Game.new("questions/all.json")
   end
 
   def start_game(m)
@@ -29,11 +29,11 @@ class Trebek
   end
 
   def stop_game(m)
-    game.stop!
+    game.stop! if game.playing?
   end
 
   def next_question(m)
-    game.next_question!
+    game.next_question! if game.playing?
   end
 
   def scores(m)
@@ -49,21 +49,21 @@ class Trebek
 end
 
 
-bot = Cinch::Bot.new do
-  configure do |c|
-    c.nick            = "trebek"
-    c.server          = "irc.freenode.org"
-    c.channels        = ["#trebek"]
-    c.verbose         = true
-    c.plugins.plugins = [Trebek]
+if $0 == __FILE__
+  bot = Cinch::Bot.new do
+    configure do |c|
+      c.nick            = "trebek"
+      c.server          = "irc.freenode.org"
+      c.channels        = ["#trebek"]
+      c.verbose         = true
+      c.plugins.plugins = [Trebek]
+    end
   end
+
+  Thread.new { bot.start }
+
+  require 'pry'
+  Pry.config.should_load_rc = false
+  Pry.config.should_load_local_rc = false
+  bot.pry
 end
-
-
-Thread.new { bot.start }
-
-require 'pry'
-Pry.config.should_load_rc = false
-Pry.config.should_load_local_rc = false
-
-bot.pry

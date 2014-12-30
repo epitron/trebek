@@ -1,1 +1,1 @@
-ruby trebek.rb
+ruby bot.rb
