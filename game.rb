@@ -220,6 +220,7 @@ class Game
         
         if @current_question.hint.too_easy?
           show_lose
+          @current_question = nil
           puts
           break
         end
