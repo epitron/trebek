@@ -1,5 +1,5 @@
 require 'epitools'
-require_relative 'js_string_parser'
+require_relative 'js_string_extractor'
 
 class Scraper
 
