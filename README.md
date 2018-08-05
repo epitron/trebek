@@ -9,7 +9,7 @@ This is a Ruby bot, so you'll first need Ruby, which comes with OSX and most Lin
  1. Make sure bundler is installed: `gem install bundler`
  1. Check out the code: `git clone https://github.com/epitron/trebek`
  1. Run `bundle` from inside the directory (`cd trebek; bundle`) to install dependencies
- 1. Download the questions from http://epi.ponzo.net/trebek/all.json.gz , uncompress them (ie: `gunzip all.json.gz`), then put `all.json` in `trebek/questions`
+ 1. Uncompress the questions (`gunzip questions/all.json.gz`)
  1. Copy `config.yml-sample` to `config.yml`, then edit `config.yml` to configure which servers and channels you want the bot to connect to, as well as its name and nick
  1. Fire it up: `bundle exec ./go`
 
