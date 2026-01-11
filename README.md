@@ -2,6 +2,9 @@
 
 An IRC Trivia-bot, with an archive of 30 years of Jeopardy questions!
 
+![](https://raw.githubusercontent.com/epitron/trebek/master/screenshots/spider-pig.png)
+
+
 ## Installation
 
 This is a Ruby bot, so you'll first need Ruby, which comes with OSX and most Linux distributions. (If it's not installed, you can learn how to install it from http://ruby-lang.org/)
